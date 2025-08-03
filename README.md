@@ -1,7 +1,4 @@
 # Prompt Engineering Quizzes for AI Enthusiasts
-
-Below are two quizzes designed to test your understanding of advanced prompt engineering techniques, based on the *GPT-4.1 Prompting Guide* by OpenAI and the *Prompt Engineering Whitepaper* by Lee Boonstra. These quizzes focus on real-world applications, covering agentic workflows, long context, chain-of-thought, ReAct, and Automatic Prompt Engineering (APE). Each question encourages critical thinking and practical problem-solving.
-
 ## Quiz 1: GPT-4.1 Prompting Guide
 
 **Instructions**  
@@ -269,3 +266,4 @@ Replace `load_tools(["serpapi"])` with a `stock_check` tool. The agent reasons, 
   - *Prompt Engineering Whitepaper*  
 
 **Engagement**: Try the quizzes, share your scores, and discuss your favorite prompt engineering techniques in the comments!
+
